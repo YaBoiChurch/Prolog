@@ -14,5 +14,7 @@ But why is Prolog important when it comes to A.I? Well Prolog has search and uni
 
 Sources:
 https://www.geeksforgeeks.org/prolog-an-introduction/
+
 http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse1
+
 https://www.metalevel.at/prolog/introduction
