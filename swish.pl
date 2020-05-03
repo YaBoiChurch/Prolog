@@ -5,5 +5,6 @@ city(hotSprings, arkansas). /* This is a rule that states Hot Springs is a city 
 city(littleRock, arkansas). /* This same rule applies to the cities in Texas and Florida*/
 city(dallas, texas).
 city(houston, texas).
-city(tampaBay, florida).
+city(tampaBay, florida). 
 city(jacksonville, florida).
+/* Queries for this would be something like ?- state(arkansas).  ?- (X, texas). ?- state(X). ?- city(tampaBay, X). */
